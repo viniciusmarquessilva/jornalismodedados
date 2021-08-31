@@ -1,2 +1,4 @@
 # jornalismodedados
-Repositório de códigos e exercícios do master em jornalismo de dados, automação e data storytelling
+Oi, meu nome é Vinicius.
+
+Este é um epositório de códigos e exercícios do master em jornalismo de dados, automação e data storytelling
